@@ -3,7 +3,7 @@
 -   快速安装
     -   配置代理
         -   配置docker代理
-            教程见：[docker安装及配置](./docker安装及配置.md)
+            教程见：[docker安装及配置](https://github.com/langtodu/docker/blob/master/Document/docker%E5%AE%89%E8%A3%85%E5%8F%8A%E9%85%8D%E7%BD%AE.md)
         -   配置系统代理
             ```
             ## 临时代理
